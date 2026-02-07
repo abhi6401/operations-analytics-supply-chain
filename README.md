@@ -1,5 +1,3 @@
-## Personal Note
-Modified and explored by Abhay Deokar
 # Supply-Chain-Optimization
 
 A repository for applying ML to optimize supply chain management, covering demand forecasting, inventory, logistics, and supplier selection. Includes Jupyter notebooks, Python scripts, and datasets for real-world applications.
@@ -87,10 +85,10 @@ Open-source licenses allow others to freely use, modify, and distribute your pro
 
 ## Maintainer/Team Contact Information
 
-- **Name**: Ankita Sharma
-- **Role**: Project Maintainer/Lead Developer
-- **LinkedIn**: [Ankit Sharma](https://www.linkedin.com/in/ankitrajsh/)
-- **Email**: ankitraj.84060@gmail.com
+- **Name**: Abhay Deokar
+- **Role**: Supply Chain & Operations Analyst
+- **LinkedIn**: [Abhay Deokar](www.linkedin.com/in/abhay-deokar-a62640370)
+- **Email**: abhayd6401@gmail.com
 
 ## Credits
 
